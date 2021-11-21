@@ -1,0 +1,15 @@
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\snakeandladder1.exe
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\snakeandladder1.deps.json
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\snakeandladder1.runtimeconfig.json
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\snakeandladder1.dll
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\ref\snakeandladder1.dll
+D:\snakeandlader\snakeandladder1\bin\Debug\net6.0\snakeandladder1.pdb
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.csproj.AssemblyReference.cache
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.GeneratedMSBuildEditorConfig.editorconfig
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.AssemblyInfoInputs.cache
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.AssemblyInfo.cs
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.csproj.CoreCompileInputs.cache
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.dll
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\ref\snakeandladder1.dll
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.pdb
+D:\snakeandlader\snakeandladder1\obj\Debug\net6.0\snakeandladder1.genruntimeconfig.cache
