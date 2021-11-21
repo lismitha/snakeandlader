@@ -6,10 +6,10 @@ namespace SnakeAndLadder
     {
         static void Main(string[] args)
         {
-            int StartingPosition = 0;
-            Console.WriteLine("Starting position " + StartingPosition);
+            Random random = new Random();
+            int DiceNumber = random.Next(1, 7);
 
-
+            Console.WriteLine("Dice Number is " + DiceNumber);
 
         }
     }
